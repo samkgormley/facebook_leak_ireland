@@ -1,7 +1,6 @@
 # Facebook Leak (Ireland)
 
 ## Social Media Post
-
 [Tableau Interactive Dashboard](https://public.tableau.com/profile/sam.gormley#!/vizhome/facebook_leak_ireland/FacebookLeakIreland)
 
 Over the last few days, many of you will have read about a Facebook leak containing the personal information of more than 500 million user accounts.  The leaked data had been circulating on private forums for a fee since at least 2019, but it was made publicly accessible over the weekend.
@@ -20,7 +19,6 @@ This leak does not contain any password information, but mobile phone numbers fo
 * [Irish Times](https://www.irishtimes.com/business/technology/have-you-been-hit-by-facebook-s-data-breach-here-s-how-to-find-out-1.4530187)
 
 ## Methodology
-
 This project primarily uses pandas for wrangling and feature extraction.
 The pycountries library proved useful to match up the quite messy location data with actual countries.
 Tableau was used to build the actual visualisations.
